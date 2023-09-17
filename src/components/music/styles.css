@@ -1,0 +1,13 @@
+ul {
+    list-style: none;
+    padding-inline-start: 0;
+}
+
+.song-item {
+    padding: 1rem;
+    border: 2px solid #FFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    margin: 1rem 0;
+}

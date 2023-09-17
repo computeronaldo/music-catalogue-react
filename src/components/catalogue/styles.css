@@ -1,0 +1,28 @@
+.catalogue {
+    width: 60%;
+    margin: 2rem auto;
+}
+
+.genres {
+    display: flex;
+    gap: 1rem;
+    justify-content: space-around;
+}
+
+.genres > button {
+    padding: 1.25rem 3rem;
+    background-color: #0A0;
+    border-radius: 12px;
+    border: none;
+    color: white;
+    font-weight:bold;
+    font-family: 'Manrope', sans-serif;
+}
+
+.genre-info {
+    margin: 4rem auto;
+}
+
+.active {
+    transform: scale(1.2);
+}

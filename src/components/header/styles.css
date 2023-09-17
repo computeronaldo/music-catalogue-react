@@ -1,0 +1,24 @@
+header {
+    width: 60%;
+    margin: 3rem auto;
+    text-align: center;
+}
+
+hr {
+    width: 60%;
+}
+img {
+    width: 17%;
+}
+
+.main {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.main > h1 {
+    text-wrap: balance;
+}
